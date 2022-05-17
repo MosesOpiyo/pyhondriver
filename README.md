@@ -4,3 +4,7 @@ AI that can play racing games on its own using lane detection and lane gradient 
 # dependencies
 1. OpenCV
 2. pyautogui
+
+# Issues 
+1. Only works on need for speed most wanted 2012.
+2. Lane detection in 3rd person is difficult 
