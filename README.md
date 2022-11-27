@@ -1,5 +1,6 @@
 # pythondriver
-AI that can play racing games on its own using lane detection and lane gradient for speed and angle of steering.
+AI Bot that can play racing games on its own using lane detection and lane gradient for speed and angle of steering.
+Made specifically for need for speed most wanted 2012.
 
 # dependencies
 1. OpenCV
